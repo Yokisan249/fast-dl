@@ -1,3 +1,0 @@
-mvm_ma_ep13_3_rev2.bsp filter=lfs diff=lfs merge=lfs -text
-mvm_ma_ep15_3_rev2.bsp filter=lfs diff=lfs merge=lfs -text
-mvm_ma_ep16b_3_rev2.bsp filter=lfs diff=lfs merge=lfs -text
